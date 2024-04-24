@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaker&label=Profile%20views&color=3fabee&style=flat-square" alt="iamsaker" /> </p>
 
-- 🔭 I’m currently working on [Waterball Limited Company](https://github.com/Waterball-Limited-Company)
+- 🔭 I’m currently working on [BCT](https://www.bahwancybertek.com/)
 
-- 🌱 I’m currently learning **CS knowledge, game development, distributed system, microservices, and container orchestration**
+- 🌱 I’m currently learning **CS knowledge, game development, serverless solutions, distributed system, microservices, and container orchestration**
 
-- 🤝 I’m as an Alpha at [WSA](https://github.com/Waterball-Software-Academy)
-
-- 👨‍💻 I’m contributing towards [GaaS](https://github.com/Game-as-a-Service/)
-
-- 💬 Ask me about **GaaS**
+- 💬 Ask me about **Career**, **Interview**
 
 - ⚡ Fun fact **I think I am awesome**
 
